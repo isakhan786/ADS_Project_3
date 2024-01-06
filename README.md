@@ -1,1 +1,2 @@
-# ADS_Project_3
+# ADS Project 3
+Project Management Algorithm Implementation
